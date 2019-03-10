@@ -9,3 +9,9 @@ h2 {
 h3 {
     color: pink;
 }
+
+body {
+    background-image: url(beach.jpg);
+    width: 100%;
+    background-size: contain;
+}
